@@ -1,7 +1,8 @@
 # full-stack-open
 Collection of my submissions for the exercises provided for University of Helsinki Full Stack open course.
 
-<a href="https://www.helsinki.fi/en"> https://www.helsinki.fi/en </a> for <a href="https://fullstackopen.com/"> https://fullstackopen.com/ </a>
+University:<a href="https://www.helsinki.fi/en"> https://www.helsinki.fi/en </a>
+Course:<a href="https://fullstackopen.com/"> https://fullstackopen.com/ </a>
 
 The course is divided in 13 Parts
 
