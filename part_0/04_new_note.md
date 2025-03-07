@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram  
 participant browser
 participant server
@@ -34,3 +35,4 @@ browser -->> server: GET https://studies.cs.helsinki.fi/exampleapp/favicon.ico
  activate server
 server -->> browser: The favicon file
 deactivate server
+```
